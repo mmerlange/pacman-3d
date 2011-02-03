@@ -6,7 +6,7 @@ Esta página destina-se a descrever como preparar o ambiente de desenvolvimento 
 
 = Pré-requisitos =
 
-.SO: Mac ou Windows
+.SO: Mac OS X ou Windows
 
 .VCS: Subversion
 
