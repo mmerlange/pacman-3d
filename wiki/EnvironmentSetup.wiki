@@ -1,0 +1,9 @@
+#summary Configurações do ambiente de desenvolvimento
+
+= Introduction =
+
+Esta página destina-se a descrever como preparar o ambiente de desenvolvimento deste projeto.
+
+= Details =
+
+Game engine utilizada: Unity 3D - http://unity3d.com/unity/download/
