@@ -1,6 +1,6 @@
 #summary Configurações do ambiente de desenvolvimento
 
-= Introduction =
+= Introdução =
 
 Esta página destina-se a descrever como preparar o ambiente de desenvolvimento deste projeto além de documentar os softwares e plug-ins necessários.
 
