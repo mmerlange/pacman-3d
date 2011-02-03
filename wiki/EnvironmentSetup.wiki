@@ -7,3 +7,5 @@ Esta página destina-se a descrever como preparar o ambiente de desenvolvimento 
 = Details =
 
 Game engine utilizada: Unity 3D 3.x - http://unity3d.com/unity/download/
+
+[TODO] Alguém precisa criar um projeto no unity (mesmo que uma blank scene), commitar e explicar aqui como fazer o checkout;
