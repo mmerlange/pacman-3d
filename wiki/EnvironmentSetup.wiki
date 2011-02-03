@@ -2,10 +2,14 @@
 
 = Introduction =
 
-Esta página destina-se a descrever como preparar o ambiente de desenvolvimento deste projeto além de documentar os software e plug-ins necessários.
+Esta página destina-se a descrever como preparar o ambiente de desenvolvimento deste projeto além de documentar os softwares e plug-ins necessários.
 
-= Details =
+= Pré-requisitos =
 
-Game engine utilizada: Unity 3D 3.x - http://unity3d.com/unity/download/
+SO: Mac ou Windows
+VCS: Subversion
+Game engine: Unity 3D 3.x - http://unity3d.com/unity/download/
 
-[TODO] Alguém precisa criar um projeto no unity (mesmo que uma blank scene), commitar e explicar aqui como fazer o checkout;
+= TODO =
+
+* Alguém precisa criar um projeto no unity (mesmo que uma blank scene), commitar e explicar aqui como fazer o checkout;
