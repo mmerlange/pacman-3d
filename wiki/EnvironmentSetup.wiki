@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Esta página destina-se a descrever como preparar o ambiente de desenvolvimento deste projeto.
+Esta página destina-se a descrever como preparar o ambiente de desenvolvimento deste projeto além de documentar os software e plug-ins necessários.
 
 = Details =
 
