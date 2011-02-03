@@ -7,6 +7,7 @@ Esta página destina-se a descrever como preparar o ambiente de desenvolvimento 
 = Pré-requisitos =
 
 .SO: Mac ou Windows
+
 .VCS: Subversion
 .Game engine: Unity 3D 3.x - http://unity3d.com/unity/download/
 
