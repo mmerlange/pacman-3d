@@ -19,10 +19,13 @@ Esta página destina-se a descrever como preparar o ambiente de desenvolvimento 
 = Tarefas =
 
 Fabrício:
+
 - Inserir o labirinto e realizar simples movimentos do pacman usando FPS controller.
 
 Leandro:
+
 - Testes da feature de Interactive Cloth para os fantasmas.
 
 Serrão:
+
 - Modelo inicial do labirinto para testes (cadeeeeeeeee????).
