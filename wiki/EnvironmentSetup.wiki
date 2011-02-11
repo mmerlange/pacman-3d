@@ -14,9 +14,9 @@ Esta página destina-se a descrever como preparar o ambiente de desenvolvimento 
 
 = TODO =
 
-- Alguém precisa criar um projeto no unity (mesmo que uma blank scene), commitar e explicar aqui como fazer o checkout;
+??????:
 
-= Tarefas =
+- Alguém precisa criar um projeto no unity (mesmo que uma blank scene), commitar e explicar aqui como fazer o checkout;
 
 Fabrício:
 
