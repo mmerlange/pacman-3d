@@ -10,8 +10,19 @@ Esta página destina-se a descrever como preparar o ambiente de desenvolvimento 
 
 .VCS: Subversion
 
-.Game engine: Unity 3D 3.x - http://unity3d.com/unity/download/
+.Game engine: Unity 3D 3.2 - http://unity3d.com/unity/download/
 
 = TODO =
 
 - Alguém precisa criar um projeto no unity (mesmo que uma blank scene), commitar e explicar aqui como fazer o checkout;
+
+= Tarefas =
+
+Fabrício:
+- Inserir o labirinto e realizar simples movimentos do pacman usando FPS controller.
+
+Leandro:
+- Testes da feature de Interactive Cloth para os fantasmas.
+
+Serrão:
+- Modelo inicial do labirinto para testes (cadeeeeeeeee????).
