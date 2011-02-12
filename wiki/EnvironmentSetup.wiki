@@ -39,3 +39,4 @@ Leandro:
 Serrão:
 
 - Modelo inicial do labirinto para testes (cadeeeeeeeee????).
+- Criar concept art do menu inicial, e ir adiantando as fontes (ttf) e imagens a serem usadas. (menu 2D? 3D? Com animação de modelos?)
