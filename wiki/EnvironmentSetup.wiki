@@ -24,11 +24,11 @@ Note que dentro do diretório _Library_ existem 3 diretórios que foram inserido
 
 = TODO =
 
-Fabrício:
+*Fabrício:*
 
 - Inserir o labirinto e realizar simples movimentos do pacman usando FPS controller.
 
-Leandro:
+*Leandro:*
 
 ~~- Criar um projeto no unity (mesmo que uma blank scene);~~ Concluído.
 
@@ -36,7 +36,9 @@ Leandro:
 
 ~~- Testes da feature de Interactive Cloth para os fantasmas.~~ Interactive Cloth testado e funciona corretamente como o esperado.
 
-Serrão:
+- Executável disponível no link "Downloads" no topo.
+
+*Serrão:*
 
 - Modelo inicial do labirinto para testes (cadeeeeeeeee????);
 
