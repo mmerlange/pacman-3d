@@ -29,7 +29,7 @@ Para transformar o SVG em FBX:
   * Clique em File/Export/Autodesk FBX, confirme as opções e clique em Export
   * Confirme onde o arquivo será gravado e clique em Export FBX
 
-Pronto. Agora já é possível importar o modelo criado no Unity através da opção: Assets/Import New Asset... 
+Pronto. Agora já é possível importar no Unity o modelo criado através da opção: Assets/Import New Asset... 
 
 Boa sorte. Você vai precisar!!
 
