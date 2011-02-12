@@ -1,5 +1,5 @@
+#summary Tutorial: Modelo Labirinto
 #labels Phase-Design
-#Summary Tutorial: Modelo Labirinto
 
 = Introduction =
 
