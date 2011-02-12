@@ -28,7 +28,9 @@ Note que dentro do diretório _Library_ existem 3 diretórios que foram inserido
 
 *Fabrício:*
 
-- Inserir o labirinto e realizar simples movimentos do pacman usando FPS controller.
+- Inserir o labirinto e realizar simples movimentos do pacman usando FPS controller;
+
+- Verificar colisão do player com paredes.
 
 *Leandro:*
 
