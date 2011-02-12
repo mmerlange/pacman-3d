@@ -18,7 +18,7 @@ Versionamento nativo de projetos Unity só é suportado na versão Pro. Mas tent
 
 Após instalar seu cliente SVN, faça o checkout do projeto:
 
-*svn checkout https://pacman-3d.googlecode.com/svn/trunk/ pacman-3d --username <seu-email>*
+_svn checkout https://pacman-3d.googlecode.com/svn/trunk/ pacman-3d --username seu@email.com_
 
 Note que dentro do diretório _Library_ existem 3 diretórios que foram inseridos no ignore do SVN. São arquivos de cache, que provavelmente não farão falta (espero).
 
