@@ -14,17 +14,17 @@ Esta página destina-se a descrever como preparar o ambiente de desenvolvimento 
 
 = TODO =
 
-??????:
-
-- Alguém precisa criar um projeto no unity (mesmo que uma blank scene), commitar e explicar aqui como fazer o checkout;
-
 Fabrício:
 
 - Inserir o labirinto e realizar simples movimentos do pacman usando FPS controller.
 
 Leandro:
 
-- Testes da feature de Interactive Cloth para os fantasmas.
+~~- Criar um projeto no unity (mesmo que uma blank scene);~~ Concluído.
+
+- Commitar o projeto e explicar aqui como fazer o checkout;
+
+~~- Testes da feature de Interactive Cloth para os fantasmas.~~ Interactive Cloth testado e funciona corretamente como o esperado.
 
 Serrão:
 
