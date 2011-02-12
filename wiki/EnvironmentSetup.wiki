@@ -40,7 +40,9 @@ Note que dentro do diretório _Library_ existem 3 diretórios que foram inserido
 
 ~~- Testes da feature de Interactive Cloth para os fantasmas.~~ Interactive Cloth testado e funciona corretamente como o esperado.
 
-- Executável disponível no link "Downloads" no topo.
+- Executável disponível no link "Downloads" no topo;
+
+- Criar prefabs dos ghosts para melhor customização.
 
 *Serrão:*
 
