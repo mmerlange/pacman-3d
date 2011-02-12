@@ -12,7 +12,7 @@ Esta página destina-se a descrever como preparar o ambiente de desenvolvimento 
 
 .Game engine: Unity 3D 3.2 - http://unity3d.com/unity/download/
 
-== Configurando ambiente ==
+== Configurando o ambiente ==
 
 Versionamento nativo de projetos Unity só é suportado na versão Pro. Mas tentei subir os arquivos que acho essenciais. Testem e reportem o resultado ;)
 
