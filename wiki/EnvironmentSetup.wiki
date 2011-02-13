@@ -42,7 +42,7 @@ Note que dentro do diretório _Library_ existem 3 diretórios que foram inserido
 
 - Executável disponível no link "Downloads" no topo;
 
-- Criar prefabs dos ghosts para melhor customização.
+~~- Criar prefabs dos ghosts para melhor customização.~~ Concluído. Falta commitar.
 
 *Serrão:*
 
