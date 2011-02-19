@@ -1,0 +1,39 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Fabrício:
+
+  * ~~Inserir o labirinto e realizar simples movimentos do pacman usando FPS controller;~~ Concluído.
+
+  * Verificar colisão do player com paredes.
+
+Leandro:
+
+  * Criar um projeto no unity (mesmo que uma blank scene); Concluído.
+
+  * Commitar o projeto e explicar aqui como fazer o checkout; Concluído.
+
+  * Testes da feature de Interactive Cloth para os fantasmas. Interactive Cloth testado e funciona corretamente como o esperado.
+
+  * Executável disponível no link "Downloads" no topo;
+
+  * Criar prefabs dos ghosts para melhor customização. Concluído.
+
+  * Todas as tarefas commitadas.
+
+Serrão:
+
+  * ~~Modelo inicial do labirinto para testes;~~ Concluído.
+  * Criar concept art do menu inicial, e ir adiantando as fontes (ttf) e imagens a serem usadas. (menu 2D? 3D? Com animação de modelos?).
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
