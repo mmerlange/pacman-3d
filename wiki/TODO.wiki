@@ -11,7 +11,7 @@ Lista de tarefas para cada integrante.
 = Leandro =
 
   * ~~Criar um projeto no unity (mesmo que uma blank scene);~~ Concluído.
-  * ~~Commitar o projeto e explicar aqui como fazer o checkout; Concluído.
+  * ~~Commitar o projeto e explicar aqui como fazer o checkout;~~ Concluído.
   * ~~Testes da feature de Interactive Cloth para os fantasmas.~~ Interactive Cloth testado e funciona corretamente como o esperado.
   * ~~Criar prefabs dos ghosts para melhor customização.~~ Concluído.
   * ~~Teste de som ambiente.~~ Testado, funciona como o esperado.
