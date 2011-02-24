@@ -7,7 +7,7 @@ var duration : float = 500.0;
 function Start() {
     startPoint = transform.position;
     startTime = Time.time;
-	endPoint = Vector3(170, startPoint.y,startPoint.z);
+	endPoint = Vector3(startPoint.x + 50, startPoint.y,startPoint.z);
 }
 
 function onMouseDown() {
@@ -16,6 +16,6 @@ function onMouseDown() {
 function Update () {
     transform.position = Vector3.Lerp(startPoint, endPoint, (Time.time - startTime) / duration);
 	
-	if(transform.position == endPoint)
-	    Application.LoadLevel(Application.loadedLevel - 1);
+//	if(transform.position == endPoint)
+//	    Application.LoadLevel(Application.loadedLevel - 1);
 }
